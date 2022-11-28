@@ -2,12 +2,14 @@
 
 ### Date created
 Created 11/28/2022
+Update 11/28/2022
 
 ### Project Title
 The Bike Project
 
 ### Description
 Learning about Git and Github
+Update .py file with personal version
 
 ### Files used
 bikeshare.py file add
