@@ -6,7 +6,8 @@ CITY_DATA = { 'chicago': 'chicago.csv', 'new york city': 'new_york_city.csv', 'w
 months = ('january', 'february', 'march', 'april', 'may', 'june')
 weekdays = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday')
 
-    """ Assume optimized """
+    """ Final Review
+        Ask function to ask for input"""
 
 def ask(question, option=('y', 'n')):
     while True:
